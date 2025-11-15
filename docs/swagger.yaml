@@ -138,15 +138,9 @@ definitions:
     type: object
 host: localhost:8080
 info:
-  contact:
-    email: support@manus.im
-    name: Manus AI
-    url: https://help.manus.im
+  contact: {}
   description: API RESTful para uma plataforma de Upskilling/Reskilling voltada ao
     futuro do trabalho (2030+).
-  license:
-    name: Apache 2.0
-    url: http://www.apache.org/licenses/LICENSE-2.0.html
   title: Plataforma de Upskilling/Reskilling API
   version: "1.0"
 paths:

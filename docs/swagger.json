@@ -3,15 +3,7 @@
     "info": {
         "description": "API RESTful para uma plataforma de Upskilling/Reskilling voltada ao futuro do trabalho (2030+).",
         "title": "Plataforma de Upskilling/Reskilling API",
-        "contact": {
-            "name": "Manus AI",
-            "url": "https://help.manus.im",
-            "email": "support@manus.im"
-        },
-        "license": {
-            "name": "Apache 2.0",
-            "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
-        },
+        "contact": {},
         "version": "1.0"
     },
     "host": "localhost:8080",
