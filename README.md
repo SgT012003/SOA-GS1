@@ -115,6 +115,8 @@ A API expõe os seguintes endpoints sob o prefixo `/api/v1`:
 
 esse passo a passo ja foi feito, so precisa ser realizado se desejar atualizar algum dado.
 
+[Acesso ao Swagger](localhost:8080)
+
 A documentação Swagger foi configurada no código-fonte (comentários `// @...`) para ser gerada localmente.
 
 Para gerar a documentação na sua máquina, instale o `swag`:
